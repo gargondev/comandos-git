@@ -1,4 +1,4 @@
-###Comandos Git 🚀️
+### Comandos Git 🚀️
 
 ---
 
@@ -38,3 +38,7 @@ Comando abaixo, status atual do seu diretório que você está trabalhando com o
 Comando abaixo, leva os dados do diretório que você estiver trabalhando para o git hub seu repositório na nuvem.
 
 * git push origin master
+
+##### Pull Pega informações do repositório remoto e sincroniza com repositório Local
+
+* git pull oringin master
