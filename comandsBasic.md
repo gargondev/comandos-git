@@ -42,3 +42,24 @@ Comando abaixo, leva os dados do diretório que você estiver trabalhando para o
 ##### Pull Pega informações do repositório remoto e sincroniza com repositório Local
 
 * git pull oringin master
+
+##### Log Mostrar informações dos commits
+
+Comando mostra os logs detalhados dos commits
+* git log 
+
+Mostra os logs abreviados
+* git log -- oneline
+
+##### Graphos mostra os commits em graphos perfeito para melhoar organização e rasterar commits, pode ser combinado com comando git log --oneline
+
+* git log --graph
+
+##### Criando nova Branch
+
+* git branch [novaBranch]
+
+Alterando para nova branch.
+
+* grit checkout [novaBranch]
+
