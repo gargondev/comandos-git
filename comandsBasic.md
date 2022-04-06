@@ -61,5 +61,9 @@ Mostra os logs abreviados
 
 Alterando para nova branch.
 
-* grit checkout [novaBranch]
+* git checkout [novaBranch]
+
+##### Associando repositório local no remoto
+
+* git remote set-url origin [new.git.url/here]
 
