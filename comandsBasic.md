@@ -65,5 +65,10 @@ Alterando para nova branch.
 
 ##### Associando repositório local no remoto
 
-* git remote set-url origin [new.git.url/here]
+Primeiro cria repositório local e repositório remoto.
+* git remote add origin git@github.com:heldeveloper/nome_repositorio.git -> comando para realizar a ligação entre repositório remoto com repositório local
+* git remote -v -> Verifica qual repositório esta linkado
+* git push -f origin master -> sobe atualização do repositório local ao remoto
+
+
 
